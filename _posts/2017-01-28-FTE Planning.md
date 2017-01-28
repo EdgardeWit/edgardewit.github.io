@@ -13,3 +13,5 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate mollitia, m
 
 ... which is shown in the screenshot below:
 ![My helpful screenshot]({{site.url}}/assets/fte_planning.png)
+
+{% include image.html {{site.url}}/assets/fte_planning.png" description="fte planning" %}
