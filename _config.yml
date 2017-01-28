@@ -1,2 +1,3 @@
 name: Edgar de Wit, Helpcenter
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
