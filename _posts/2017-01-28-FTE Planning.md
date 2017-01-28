@@ -2,7 +2,7 @@
 layout: post
 title: FTE Planning
 categories:
-- blog
+- help
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, maiores, similique esse fugit, ut placeat repellat aspernatur voluptatem temporibus possimus aliquid maxime debitis ex atque quia sequi ullam nulla. Rem.
