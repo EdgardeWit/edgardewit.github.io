@@ -10,3 +10,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, maiores, sim
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate mollitia, molestias voluptatibus quasi? Cupiditate, architecto, adipisci. Optio quisquam molestias alias at consequuntur, dolor dignissimos magnam velit similique neque eligendi labore!
+
+... which is shown in the screenshot below:
+![My helpful screenshot]({{ site.url }}/assets/fte_planning.png)
