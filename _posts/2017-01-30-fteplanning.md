@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FTE Planning
-img: image-5.png
+img: fteplanning.png
 ---
 
 # Step 1
