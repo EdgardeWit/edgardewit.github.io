@@ -9,4 +9,4 @@ permalink: /about/
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat veritatis aut quae, quibusdam ullam, delectus exercitationem perferendis voluptas, eum id sequi optio qui, excepturi libero magnam necessitatibus! Odit, voluptate enim.
 
-Read [Company](https://www.infoaction.nl){: target="_blank"}. 
+Read [Company](http://www.infoaction.nl){: target="_blank"}. 
