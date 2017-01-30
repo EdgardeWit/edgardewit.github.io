@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![infoaction logo](http://infoaction.nl/wp-content/uploads/infoaction-weblogo.png)
+![infoaction logo]({{site.baseurl}}/images/{{post.img}})
 
 <div class="mt50"></div>
 
