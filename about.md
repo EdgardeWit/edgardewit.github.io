@@ -3,8 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-![webjeda logo]({{site.baseurl}}/images/webjeda.svg)
+![infoaction logo](http://infoaction.nl/wp-content/uploads/infoaction-weblogo.png)
 
 <div class="mt50"></div>
 
-Webjeda cards is a Bootstrap based theme. Any Bootstrap element can be used in the theme. Read [Webjeda Blog](http://blog.webjeda.com){: target="_blank"} for jekyll tutorials. 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat veritatis aut quae, quibusdam ullam, delectus exercitationem perferendis voluptas, eum id sequi optio qui, excepturi libero magnam necessitatibus! Odit, voluptate enim.
+
+Read [Company](https://www.infoaction.nl){: target="_blank"}. 
