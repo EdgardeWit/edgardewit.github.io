@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![infoaction logo]({{site.baseurl}}/images/{{post.img}})
+![infoaction logo]({{site.baseurl}}/images/infoaction-weblogo.png)
 
 <div class="mt50"></div>
 
