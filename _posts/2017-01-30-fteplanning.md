@@ -18,6 +18,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae id vel doloribus
 
 # Changelog
 <pre>
-	version 0.1 - Initial version
+version 0.1 - Initial version
 </pre>
 
