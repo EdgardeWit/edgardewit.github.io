@@ -16,18 +16,10 @@ layout: default
                   </div>
                   {% if post.img %}
                   <img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
-                  {% if post.imgext %}
-                  <img width="100%" src="https://source.unsplash.com/{{post.imgext}}/400x250" alt="{{post.title}}">
                   {% else %}
                   <img width="100%" style="text-align:center;" src="{{site.baseurl}}/images/logo-big.png" alt="{{site.title}}">
                   {% endif %}
 
-                  {% if post.imgext %}
-                  <img width="100%" src="https://source.unsplash.com/{{post.imgext}}/400x250" alt="{{post.title}}">
-                  {% else %}
-                  <img width="100%" style="text-align:center;" src="{{site.baseurl}}/images/logo-big.png" alt="{{site.title}}">
-                  {% endif %}
-                  
                   <div class="panel-body"><small>
                     {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>
                     <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary btn-sm pull-right mt10">Read</a>

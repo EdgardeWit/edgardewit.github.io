@@ -29,6 +29,10 @@ permalink: /:title/
 paginate: 6
 paginate_path: /page:num/
 
+# Images
+unsplash: https://source.unsplash.com/
+size: 400x250
+
 # Tracker
 #analytics: ""
 
