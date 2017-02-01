@@ -1,10 +1,8 @@
 ---
 layout: post
 title: FTE Planning
-imgext: WLUHO9A_xik
+img: fteplanning.png
 ---
-
-img2: fteplanning.png
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam sapiente, dicta assumenda illo vel ipsa vitae ipsam velit inventore quia est deserunt, cumque explicabo dolores nemo nesciunt obcaecati, veniam accusamus?
 
@@ -15,7 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae id vel doloribus
 
 <img src="https://source.unsplash.com/WLUHO9A_xik/400x250">
 
-![test Unsplash]({{unsplash}}WLUHO9A_xik{{size}})
+{{unsplash}}WLUHO9A_xik{{size}}
 
 # Step 2
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae id vel doloribus ducimus omnis similique neque temporibus cupiditate! Unde nihil illum assumenda animi magnam atque neque, esse ipsum deleniti nesciunt!
