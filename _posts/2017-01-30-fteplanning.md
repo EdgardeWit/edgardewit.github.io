@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FTE Planning
-img: WLUHO9A_xik
+imgext: WLUHO9A_xik
 ---
 
 img2: fteplanning.png
