@@ -11,6 +11,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae id vel doloribus
 
 ![create gh-pages branch]({{site.baseurl}}/images/create-gh-pages-branch.JPG)
 
+![test image] <img src="https://source.unsplash.com/WLUHO9A_xik/400x250">
+
 # Step 2
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae id vel doloribus ducimus omnis similique neque temporibus cupiditate! Unde nihil illum assumenda animi magnam atque neque, esse ipsum deleniti nesciunt!
 
