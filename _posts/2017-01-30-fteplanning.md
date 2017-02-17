@@ -1,6 +1,7 @@
 ---
 layout: post
 title: FTE Planning
+categories: models
 img: fteplanning.png
 ---
 
