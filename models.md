@@ -1,6 +1,7 @@
 ---
 layout: default
-permalink: /models/
+title: About
+permalink: /about/
 ---
 
 <div class="home">
