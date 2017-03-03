@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Personnel
-categories: data set
-img: image-1.png
+title: Planning Personnel
+categories: models
+img: image-2.png
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum alias commodi.
 
