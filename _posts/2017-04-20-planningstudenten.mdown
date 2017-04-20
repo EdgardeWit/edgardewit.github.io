@@ -8,14 +8,23 @@ img: klant.png
 Model Studenten geeft het onderwijsaanbod per team en de daaruit afgeleide inkomsten		
 		
 Het formulier bestaat uit drie onderdelen:		
-1	Onderwijsaanbod: Kies leerweg via een drop down menu	
-2	Leerlingaantallen: Geef in de gele velden de ingeschatte leerlingaantallen per teldatum weer. Alleen positieve getallen	
-3	Wegingen. Aan de hand van de gekozen leerweg x leerlingaantal berekent het formulier de baten per tijdsvak
 
-- 	Alleen de gele velden zijn te wijzigen
--	Save (Groene knop): Druk op Save knop voor het bewaren van begrotingsformulier
--	Open model: Haalt de actuele stand uit de database. Let op: als je de gemaakte wijzigingen wilt bewaren, maar nog niet hebt opgeslagen. Druk dan eerst op de knop "SAVE" voordat je ververst
--	Plus-teken: Nieuwe rij toevoegen: Voegt een nieuwe rij toe. Dit kan je alleen doen als je op een geel veld staat
+<h3>1 Onderwijsaanbod</h3>
+
+Kies leerweg via een drop down menu	
+
+<h3>2 Leerlingaantallen</h3>
+Geef in de gele velden de ingeschatte leerlingaantallen per teldatum weer. Alleen positieve getallen	
+
+<h3>3 Wegingen</h3>
+Aan de hand van de gekozen leerweg x leerlingaantal berekent het formulier de baten per tijdsvak
+
+<ul>
+	<li>Alleen de gele velden zijn te wijzigen</li>
+	<li>Save (Groene knop): Druk op Save knop voor het bewaren van begrotingsformulier</li>
+	<li>Open model: Haalt de actuele stand uit de database. Let op: als je de gemaakte wijzigingen wilt bewaren, maar nog niet hebt opgeslagen. Druk dan eerst op de knop "SAVE" voordat je ververst</li>
+	<li>Plus-teken: Nieuwe rij toevoegen: Voegt een nieuwe rij toe. Dit kan je alleen doen als je op een geel veld staat.</li>
+</ul>
 
 # Changelog
 <pre>
