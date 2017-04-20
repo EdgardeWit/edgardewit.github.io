@@ -26,7 +26,7 @@ Aan de hand van de gekozen leerweg x leerlingaantal berekent het formulier de ba
 	<li>Plus-teken: Nieuwe rij toevoegen: Voegt een nieuwe rij toe. Dit kan je alleen doen als je op een geel veld staat.</li>
 </ul>
 
-# Changelog
+<h3> Changelog </h3>
 <pre>
 version 1.0 - Typos weggewerkt
 
