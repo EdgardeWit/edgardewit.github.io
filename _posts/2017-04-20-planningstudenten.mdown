@@ -5,9 +5,9 @@ categories: model
 img: klant.png
 ---
 
-Model Studenten geeft het onderwijsaanbod per team en de daaruit afgeleide inkomsten		
+Model Studenten geeft het onderwijsaanbod per team en de daaruit afgeleide inkomsten.		
 		
-Het formulier bestaat uit drie onderdelen:		
+<br>Het formulier bestaat uit drie onderdelen:
 
 <h3>1 Onderwijsaanbod</h3>
 
@@ -28,5 +28,7 @@ Aan de hand van de gekozen leerweg x leerlingaantal berekent het formulier de ba
 
 # Changelog
 <pre>
+version 1.0 - Typos weggewerkt
+
 version 0.1 - Initial version
 </pre>
